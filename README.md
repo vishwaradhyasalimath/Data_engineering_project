@@ -18,13 +18,13 @@
 -- Power BI connects to Synapse to visualize the processed data through dynamic dashboards and reports.
 
 ####  Medallion Architecture Layers:
--- 🥉 Bronze Layer – Raw data (stored in Data Lake Gen2).
--- 🥈 Silver Layer – Cleaned/transformed data (stored in Data Lake Gen2).
--- 🥇 Gold Layer – Aggregated, analytics-ready data (served from Synapse).
+##### 🥉 Bronze Layer – Raw data (stored in Data Lake Gen2).
+##### 🥈Silver Layer – Cleaned/transformed data (stored in Data Lake Gen2).
+##### 🥇 Gold Layer – Aggregated, analytics-ready data (served from Synapse).
 
 ####  Technologies Used:
--- Azure Data Factory – Orchestration
--- Azure Data Lake Gen2 – Storage (Raw + Transformed)
--- Azure Databricks – Data Processing
--- Azure Synapse – Data Serving/Analytics
--- Power BI – Data Visualization
+##### Azure Data Factory – Orchestration
+##### Azure Data Lake Gen2 – Storage (Raw + Transformed)
+##### Azure Databricks – Data Processing
+##### Azure Synapse – Data Serving/Analytics
+##### Power BI – Data Visualization
