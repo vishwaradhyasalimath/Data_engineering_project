@@ -28,3 +28,11 @@
 ##### Azure Databricks – Data Processing
 ##### Azure Synapse – Data Serving/Analytics
 ##### Power BI – Data Visualization
+
+### Flow Chart
+![image](https://github.com/user-attachments/assets/b97b5120-d9b9-41c1-b55b-40b35e99a284)
+![image](https://github.com/user-attachments/assets/b411f217-1e40-4880-ad5c-844ba121444b)
+![image](https://github.com/user-attachments/assets/e65166b8-f284-4f35-a94a-4e6feb97a29d)
+
+
+
